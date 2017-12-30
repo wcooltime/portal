@@ -1,3 +1,0 @@
-INDEX VERSION 1.126
-I:\work\portal\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\733135433.index
-\jslearn\src
